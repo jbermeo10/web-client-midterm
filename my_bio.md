@@ -2,6 +2,8 @@
 
 My name is Jose Bermeo. I am an Information Technology Programmer-Analyst student of LaSalle College.
 
+I am interested in programming, web development, databases, and learning new technologies.
+
 I'm doing this file as a requirement for the Mid Term of the course Web Client Development I, fall 2026.
 
-The teacher's name is Kaveh Bakhtiyari.
+
